@@ -21,10 +21,8 @@ A simple and interactive Student Registration Form developed using React.js. Thi
 - CSS3
 - Bootstrap
 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,vite" />
-</p>
-
+ 
 ## React Concepts Practiced
 
 - Functional Components
