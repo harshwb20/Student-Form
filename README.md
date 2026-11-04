@@ -1,16 +1,57 @@
-# React + Vite
+# Student Registration Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive Student Registration Form developed using React.js. This project allows users to enter student details, validate inputs, and display a student profile with academic results.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Enter student name and email.
+- Select or enter a course.
+- Enter student marks.
+- Validate name and email fields.
+- Display student details after form submission.
+- Reset the form to clear all input fields.
+- Display Pass or Fail based on marks.
+- Calculate and display grades based on marks.
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- Bootstrap
 
-## Expanding the ESLint configuration
+## React Concepts Practiced
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Functional Components
+- useState Hook
+- Props
+- Event Handling (onChange, onClick)
+- Conditional Rendering
+- Form Handling
+- Component Communication
+
+## Project Structure
+
+```text
+react-demo-3/
+│
+├── src/
+│   ├── App.jsx
+│   ├── Student.jsx
+│   ├── App.css
+│   └── main.jsx
+│
+├── public/
+├── index.html
+├── package.json
+└── README.md
+```
+
+## Learning Objective
+
+The main objective of this project is to understand React fundamentals through a practical application, especially state management, props, form validation, event handling, and conditional rendering.
+
+## Author
+
+Harsh Wadibhasme
