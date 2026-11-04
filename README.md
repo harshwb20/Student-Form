@@ -36,7 +36,7 @@ A simple and interactive Student Registration Form developed using React.js. Thi
 ## Project Structure
 
 ```text
-react-demo-3/
+react-form/
 │
 ├── src/
 │   ├── App.jsx
